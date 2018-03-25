@@ -1,6 +1,6 @@
 # March For Our Lives
-This code creates a D3 map for The March For Our Lives marches that will happen across the U.S. on March 24, 2018.
+This code creates a D3 map and The Independent Florida Alligator's landing page for The March For Our Lives marches that will happen across the U.S. on March 24, 2018.
 
-Our full code for our landing page will be posted Saturday.
+See our coverage at www.alligator.org/app/march_for_our_lives. 
 
 Questions? Contact Caitlin Ostroff at costroff@alligator.org.
