@@ -435,7 +435,6 @@ header .scroll-down .btn {
   border: 2px solid white;
 }
 
-}
 header .scroll-down .btn:hover, article .scroll-down .btn:hover {
   color: rgba(255, 255, 255, 0.5);
   border-color: rgba(255, 255, 255, 0.5);
