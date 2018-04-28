@@ -712,7 +712,7 @@ aside.cta-quote span.quote {
   font-size: 30px;
 }
 .services .media .media-body {
-  min-width: none;
+  min-width: 0;
   padding-left: 15px;
 }
 .services .media .media-body h3 {
